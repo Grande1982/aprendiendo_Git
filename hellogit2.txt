@@ -1,2 +1,5 @@
 hola2
 cambio2
+
+---------
+este cambio la rama nueva no lo puede ver, ya que se realizo mas tarde que la creacion de la nueva rama, por ese mototivo no deberia aparecer
