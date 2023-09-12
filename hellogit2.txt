@@ -1,5 +1,7 @@
 hola2
-cambio2
+cambio2-rama tocada
 
 ---------
 este cambio la rama nueva no lo puede ver, ya que se realizo mas tarde que la creacion de la nueva rama, por ese mototivo no deberia aparecer
+-----
+ahora si lo vee porque hice un merger para ver dichos cambios
