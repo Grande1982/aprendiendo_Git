@@ -1,5 +1,5 @@
 hola2
-cambio2
+cambio2 -- voy a ver si cambio esta linea, ya que la otra rama la toco voy a crear conflicto
 
 ---------
 este cambio la rama nueva no lo puede ver, ya que se realizo mas tarde que la creacion de la nueva rama, por ese mototivo no deberia aparecer
